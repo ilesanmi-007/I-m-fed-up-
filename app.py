@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv(r'C:\Users\ilesannmi\Desktop\Projectssss___\House Rent+ Deployment\House_Rent_Dataset.csv')
+df = pd.read_csv(r'House_Rent_Dataset.csv')
 from sklearn.preprocessing import LabelEncoder
 enc = LabelEncoder()
 
